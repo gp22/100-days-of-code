@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 29, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: December 29, 2016
 
 **Today's Progress**: Completed a codewars challenge in Javascript. Worked with string processing and regular expressions.
 
