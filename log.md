@@ -14,7 +14,7 @@
 
 **Thoughts**: Already feeling more competent and a little faster today!
 
-**Link(s) to work**: [Array processing with .filter](https://github.com/gp22/codeWars_javaScript/commit/f72deecd6da5818fdffabcbb0a253c82130cd42a) [4 ways to convert a number to a string](https://github.com/gp22/codeWars_javaScript/commit/c6c73bb07538ab3fc6dfe1584436f9286c8cf8e6) [using .reduce to find shortest word in string](https://github.com/gp22/codeWars_javaScript/commit/468829f7586ea4294b45548f845ae37268219755)
+**Link(s) to work**: 1. [Array processing with .filter](https://github.com/gp22/codeWars_javaScript/commit/f72deecd6da5818fdffabcbb0a253c82130cd42a) 2. [4 ways to convert a number to a string](https://github.com/gp22/codeWars_javaScript/commit/c6c73bb07538ab3fc6dfe1584436f9286c8cf8e6) 3. [using .reduce to find shortest word in string](https://github.com/gp22/codeWars_javaScript/commit/468829f7586ea4294b45548f845ae37268219755)
 
 
 ### Day 1: June 27, Monday
