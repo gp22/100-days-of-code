@@ -24,8 +24,8 @@
 
 **Today's Progress**: Codewars and codingame challenges, worked with Math and Number objects, and loops.
 
-**Thoughts** I felt totally incompetent today when it took me AN HOUR just to figure out what was going on with the codingame easy challenge! I solved it in Python months ago but for some reason today I was at a loss!
+**Thoughts**: I felt totally incompetent today when it took me AN HOUR just to figure out what was going on with the codingame easy challenge! I solved it in Python months ago but for some reason today I was at a loss!
 
-**Link(s) to work**
+**Link(s) to work**:
 1. [Playing with digits](https://github.com/gp22/codeWars_javaScript/blob/master/playingWithDigits/default.js)
 2. [The descent](https://github.com/gp22/codInGame_javaScript/blob/master/easy/theDescent/default.js)
