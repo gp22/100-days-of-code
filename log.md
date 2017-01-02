@@ -19,7 +19,6 @@
 2. [4 ways to convert a number to a string](https://github.com/gp22/codeWars_javaScript/commit/c6c73bb07538ab3fc6dfe1584436f9286c8cf8e6)
 3. [using .reduce to find shortest word in string](https://github.com/gp22/codeWars_javaScript/commit/468829f7586ea4294b45548f845ae37268219755)
 
-
 ### Day 2: December 31, 2016
 
 **Today's Progress**: Codewars and codingame challenges, worked with Math and Number objects, and loops.
@@ -29,3 +28,12 @@
 **Link(s) to work**:
 1. [Playing with digits](https://github.com/gp22/codeWars_javaScript/blob/master/playingWithDigits/default.js)
 2. [The descent](https://github.com/gp22/codInGame_javaScript/blob/master/easy/theDescent/default.js)
+
+### Day 3: January 1, 2017
+
+**Today's Progress**: Happy new year! Codewars challenge, arrays and loops.
+
+**Thoughts**: It took me an hour and a half to solve this challenge, and reduce it to a single function. That seems like a long time for such a simple task, but I need to remember that I need to be slow before I can be fast! :)
+
+**Link(s) to work**:
+[Product of consecutive Fibonacci numbers](https://github.com/gp22/codeWars_javaScript/blob/master/productOfConsecutiveFibNumbers/index.js)
