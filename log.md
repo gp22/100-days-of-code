@@ -46,5 +46,5 @@
 **Thoughts**: It seemed like I solved this challenge a little quicker than yesterday. I want to get away from these challenges and into 'real' projects ASAP.
 
 **Link(s) to work**:
-1. [Power of Thor: Episode 1](https://github.com/gp22/codInGame_javaScript/tree/master/easy/powerOfThor-Ep1)
-2. [Temperatures](https://github.com/gp22/codInGame_javaScript/tree/master/easy/temperatures)
+1. [Power of Thor: Episode 1](https://github.com/gp22/codInGame_javaScript/tree/master/easy/powerOfThor-Ep1/index.js)
+2. [Temperatures](https://github.com/gp22/codInGame_javaScript/tree/master/easy/temperatures/index.js)
