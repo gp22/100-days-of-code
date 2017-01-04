@@ -48,3 +48,13 @@
 **Link(s) to work**:
 1. [Power of Thor: Episode 1](https://github.com/gp22/codInGame_javaScript/tree/master/easy/powerOfThor-Ep1/index.js)
 2. [Temperatures](https://github.com/gp22/codInGame_javaScript/tree/master/easy/temperatures/index.js)
+
+### Day 5: January 3, 2017
+
+**Today's Progress**: Codingame challenges, conditions, arrays and loops.
+
+**Thoughts**: I think the ratings on Codingame challenges are somewhat dubious! I solved 'Mars Lander Episode 1' pretty quick, and then my brain was fully twisted into a pretzel with 'ASCII Art', which is another 'easy' challenge!
+
+**Link(s) to work**:
+1. [Mars Lander: Episode 1](https://github.com/gp22/codInGame_javaScript/blob/master/easy/marsLander-Ep1/index.js)
+2. [ASCII Art](https://github.com/gp22/codInGame_javaScript/blob/master/easy/asciiArt/index.js)
