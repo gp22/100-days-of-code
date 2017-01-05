@@ -57,4 +57,14 @@
 
 **Link(s) to work**:
 1. [Mars Lander: Episode 1](https://github.com/gp22/codInGame_javaScript/blob/master/easy/marsLander-Ep1/index.js)
-2. [ASCII Art](https://github.com/gp22/codInGame_javaScript/blob/master/easy/asciiArt/index.js)
+2. [ASCII Art](https://github.com/gp22/codInGame_javaScript/commit/d6eddd4bfe08f960ac7d7696fd3828ae69daf797)
+
+
+### Day 6: January 4, 2017
+
+**Today's Progress**: Codingame challenge, array and string arithmetic.
+
+**Thoughts**: Woah, some new brain synapses were created during this challenge! I started last night feeling slightly scared that I wouldn't be able to complete this one. After working on it for about an hour yesterday, I came to it today with a better understanding of what was going on. It was still tough, but I completed it successfully!
+
+**Link(s) to work**:
+1. [ASCII Art](https://github.com/gp22/codInGame_javaScript/commit/ec5f06b9d6478e348a3d5202561a02e82625fd00)
