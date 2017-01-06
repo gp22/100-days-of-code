@@ -68,3 +68,12 @@
 
 **Link(s) to work**:
 1. [ASCII Art](https://github.com/gp22/codInGame_javaScript/commit/ec5f06b9d6478e348a3d5202561a02e82625fd00)
+
+### Day 7: January 5, 2017
+
+**Today's Progress**: Codingame challenge, array and string parsing.
+
+**Thoughts**: Not a lot today. Moving forward with my understanding of string and array parsing logic.
+
+**Link(s) to work**:
+1. [Chuck Norris](https://github.com/gp22/codInGame_javaScript/commit/8143b10fe0c1dd4e574489855667e88bcfb433a3)
