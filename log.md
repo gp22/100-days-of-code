@@ -70,8 +70,10 @@
 
 ### Day 7: January 5, 2017
 
-**Today's Progress**: Codingame challenge, array and string parsing.
+**Today's Progress**: Codingame challenges, array and string parsing, and dictionary lookups.
 
-**Thoughts**: Not a lot today. Moving forward with my understanding of string and array parsing logic.
+**Thoughts**: Not a lot today. Moving forward with my understanding of string and array parsing logic. Started a challenge that involves defining objects for use as a lookup table.
 
-**Link(s) to work**: [Chuck Norris](https://github.com/gp22/codInGame_javaScript/commit/8143b10fe0c1dd4e574489855667e88bcfb433a3)
+**Link(s) to work**:
+1. [Chuck Norris](https://github.com/gp22/codInGame_javaScript/commit/8143b10fe0c1dd4e574489855667e88bcfb433a3)
+2. [MIME Type](https://github.com/gp22/codInGame_javaScript/commit/d98731b505e8715b0c6e5e16ca7844b4bdbea797)
