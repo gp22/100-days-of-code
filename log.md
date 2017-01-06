@@ -66,8 +66,7 @@
 
 **Thoughts**: Woah, some new brain synapses were created during this challenge! I started last night feeling slightly scared that I wouldn't be able to complete this one. After working on it for about an hour yesterday, I came to it today with a better understanding of what was going on. It was still tough, but I completed it successfully!
 
-**Link(s) to work**:
-1. [ASCII Art](https://github.com/gp22/codInGame_javaScript/commit/ec5f06b9d6478e348a3d5202561a02e82625fd00)
+**Link(s) to work**: [ASCII Art](https://github.com/gp22/codInGame_javaScript/commit/ec5f06b9d6478e348a3d5202561a02e82625fd00)
 
 ### Day 7: January 5, 2017
 
@@ -75,5 +74,4 @@
 
 **Thoughts**: Not a lot today. Moving forward with my understanding of string and array parsing logic.
 
-**Link(s) to work**:
-1. [Chuck Norris](https://github.com/gp22/codInGame_javaScript/commit/8143b10fe0c1dd4e574489855667e88bcfb433a3)
+**Link(s) to work**: [Chuck Norris](https://github.com/gp22/codInGame_javaScript/commit/8143b10fe0c1dd4e574489855667e88bcfb433a3)
