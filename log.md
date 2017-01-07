@@ -77,3 +77,13 @@
 **Link(s) to work**:
 1. [Chuck Norris](https://github.com/gp22/codInGame_javaScript/commit/8143b10fe0c1dd4e574489855667e88bcfb433a3)
 2. [MIME Type](https://github.com/gp22/codInGame_javaScript/commit/d98731b505e8715b0c6e5e16ca7844b4bdbea797)
+
+### Day 8: January 6, 2017
+
+**Today's Progress**: Codingame challenges, array and string parsing, dictionary lookups, and optimizing array parsing.
+
+**Thoughts**: Getting used to the feeling of being clueless about how to solve a problem, and sitting with that feeling without panicking!
+
+**Link(s) to work**:
+1. [MIME Type](https://github.com/gp22/codInGame_javaScript/commit/d6aef8a494ebbb29203c23906eef8be974f1c3e0)
+2. [Horse Racing Duals](https://github.com/gp22/codInGame_javaScript/commit/500a2e4568d5fb1805b07cf468fe2e8a5ed25f04)
