@@ -87,3 +87,15 @@
 **Link(s) to work**:
 1. [MIME Type](https://github.com/gp22/codInGame_javaScript/commit/d6aef8a494ebbb29203c23906eef8be974f1c3e0)
 2. [Horse Racing Duals](https://github.com/gp22/codInGame_javaScript/commit/500a2e4568d5fb1805b07cf468fe2e8a5ed25f04)
+
+### Day 9: January 9, 2017
+
+**Today's Progress**: Learn you node exercises. Callbacks, external module files, http GET requests.
+
+**Thoughts**: I know the rules say not to count tutorials as daily coding, but I'm learning nodejs and asynchronous javascript and worked for hours solving these exercises so I'm counting it! Besides, I'm learning this stuff so that I can eventually work on the actual projects that I want to work on.
+
+**Link(s) to work**:
+1. [exercise 6](https://github.com/gp22/learnYouNode/blob/master/exercise6.js)
+2. [exercise 7](https://github.com/gp22/learnYouNode/blob/master/exercise7.js)
+3. [exercise 8](https://github.com/gp22/learnYouNode/blob/master/exercise8.js)
+4. [exercise 9](https://github.com/gp22/learnYouNode/blob/master/exercise9.js)
