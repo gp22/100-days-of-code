@@ -99,3 +99,13 @@
 2. [exercise 7](https://github.com/gp22/learnYouNode/blob/master/exercise7.js)
 3. [exercise 8](https://github.com/gp22/learnYouNode/blob/master/exercise8.js)
 4. [exercise 9](https://github.com/gp22/learnYouNode/blob/master/exercise9.js)
+
+### Day 10: January 10, 2017
+
+**Today's Progress**: Learn you node exercises. Callbacks, managing asynchronous http GET requests.
+
+**Thoughts**: These exercises totally blew my mind! Async and callbacks have been a struggle. But I stuck with it for 2 hours today and solved learn you node exercise 9 which was about managing anynchronous http GET requests. I was really proud of myself just to finish it. Then I looked at the official solution and had my mind RE-BLOWN when their solution was only half as many lines of code as mine, and soooooo much more elegant!
+
+**Link(s) to work**:
+1. [exercise 8](https://github.com/gp22/learnYouNode/blob/master/exercise8.js)
+2. [exercise 9](https://github.com/gp22/learnYouNode/blob/master/exercise9.js)
